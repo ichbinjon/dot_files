@@ -1,6 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"ensure_newline_at_eof_on_save": false,
+	"ensure_newline_at_eof_on_save": true,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": false
 }
